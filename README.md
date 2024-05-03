@@ -61,6 +61,7 @@ public class OrderTest {
 ```
 
 
-## UML Diagram
+## UML Diagram (of the Solution)
 
-![SOLIDprinciples UML](https://github.com/TrebleClef20/SOLIDprinciples/assets/65029347/c173e427-efd4-4b53-ba5c-57134884756b)
+![SOLIDprinciples UML](https://github.com/TrebleClef20/SOLIDprinciples/assets/65029347/3378c3ba-6520-4153-ab2b-816f3c57d56d)
+
